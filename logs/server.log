@@ -3,7 +3,9 @@
 > vite
 
 
-  VITE v5.4.20  ready in 270 ms
+  VITE v5.4.20  ready in 220 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.44.97:3000/
+8:13:55 PM [vite] ✨ new dependencies optimized: @radix-ui/react-dropdown-menu, lucide-react
+8:13:55 PM [vite] ✨ optimized dependencies changed. reloading
